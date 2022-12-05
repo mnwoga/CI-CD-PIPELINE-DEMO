@@ -170,5 +170,5 @@ wget http://54.209.36.115/nagiosxi/includes/configwizards/docker/plugins/check_d
 
 #validating webhook implementation of ci-cd changes
   
- # this is poll scm testing, to check webhook
+ this is poll scm testing, to check webhook
   
